@@ -1,2 +1,0 @@
-# gitmensus
-Decentralized git
